@@ -19,5 +19,8 @@
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, now call me and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroSmiley": ":)",
+  "musicPath": "music/happy_birthday.mp3",
+  "musicControls": true,
+  "autoplayMusic": true
 }
